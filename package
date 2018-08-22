@@ -1,0 +1,11 @@
+{
+  "name": "PixBot",
+  "version": "0.0.1",
+  "description": "Discord bot by Just PiXeLL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Just PiXeLL",
+  "license": "MIT"
+}
